@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LEC6</string>
+    <string name="article_title">Australian project to examine potential of using wastewater in hydrogen production</string>
+    <string name="article_subtitle">Water Research Australia says the project will aim to “address the challenge of water scarcity in the process of hydrogen production.”</string>
+    <string name="article_par">Researchers in Australia are to work with utilities and investigate using wastewater in hydrogen production in a bid to boost its sustainability and maximize resources.
+The project will see a team from Monash University in Melbourne work with four companies through Water Research Australia: Yarra Valley Water, Melbourne Water, Southeast Water and Water Corporation.
+Described by the International Energy Agency as a “versatile energy carrier”, hydrogen has a diverse range of applications and can be deployed in sectors such as industry and transport.</string>
+    <string name="eliza_john">Eliza John</string>
+    <string name="post_text">Researchers in Australia are to work with utilities and investigate using wastewater in hydrogen production in a bid to boost its sustainability and maximize resources.</string>
+    <string name="_100_comments">100 Comments</string>
+    <string name="_2_8m_views">2.8M Views</string>
+</resources>
