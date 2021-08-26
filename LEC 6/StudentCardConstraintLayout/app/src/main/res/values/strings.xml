@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentCardRelative</string>
+    <string name="mohamed_marzouk">Mohamed Marzouk</string>
+    <string name="name">Name: Mohamed Marzouk</string>
+    <string name="faculty">Faculty: Computer Science</string>
+    <string name="email">Email: 109.marzouk@gmail.com</string>
+</resources>
